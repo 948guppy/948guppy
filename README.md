@@ -1,5 +1,24 @@
-[![](https://raw.githubusercontent.com/948guppy/948guppy/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/948guppy/948guppy/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/948guppy/948guppy/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+# Hi there 👋
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/948guppy/count.svg" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=948guppy&color=green)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=948guppy&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=948guppy&show_icons=true&theme=tokyonight" />
+
+
+<!--
+**948guppy/948guppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
