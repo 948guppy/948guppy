@@ -4,8 +4,12 @@
   <img src="https://profile-counter.glitch.me/948guppy/count.svg" />
 </p>
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=948guppy&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=948guppy&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=948guppy&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=948guppy" />
+</a>
 
 
 <!--
